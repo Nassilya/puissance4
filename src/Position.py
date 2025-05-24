@@ -1,9 +1,7 @@
 from GestionPosition import trouver_ligne_vide, compter_consecutifs_horizontal, compter_consecutifs_vertical, compter_consecutifs_diagonal_droite, compter_consecutifs_diagonal_gauche, est_match_nul
-
-
 class Position:
     """
-    Représente l'état actuel du jeu.
+    Représente l'état actuel du jeu
     """
 
     def __init__(self, grille, joueur_courant):
