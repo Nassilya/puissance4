@@ -70,4 +70,4 @@ Un script de tournoi (`Tournoi_IA_Graphique.py`) permet de comparer les IA par p
 
 ## Auteurs
 
-- Nassilya Belguedj 22114758
+- Nassilya Belguedj
